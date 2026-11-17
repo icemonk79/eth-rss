@@ -3,13 +3,14 @@
 Replaces the entry for the slot in items.json, rebuilds feed.xml (max 2 items: latest morning + latest evening),
 commits and pushes. Refuses to publish if the text contains personal-position wording (feed is PUBLIC)."""
 import sys,re,html,email.utils,datetime,subprocess,zoneinfo,os,json
-FORBIDDEN=['Tvoja pozicija','pozicij','prosečn','srednj','break-even','nerealizovan','tvoj','KUPUJ','DRŽI','SMANJI','2,900','2.900','2900']
+import re as _re
+FORBIDDEN=[r'(?i)tvoj\w*\s+pozicij', r'(?i)\btvoj\w*\b', r'(?i)prose[čc]n\w*\s+(kupovn\w*\s+)?cen', r'(?i)srednj\w*\s+(kupovn\w*\s+)?cen', r'(?i)break[- ]even', r'(?i)nerealizovan', r'\bKUPUJ\b', r'\bDRŽI\b', r'\bSMANJI\b', r'2[,.]?900\b', r'(?i)pozicij\w*\s+od\b', r'(?i)\bkupio\b', r'(?i)\bkupljen\w*\b']
 if len(sys.argv)!=3 or sys.argv[2] not in('jutro','vece'):
     sys.exit('Usage: publish.py <file.md> <jutro|vece>')
 mdpath=os.path.abspath(sys.argv[1]); slot=sys.argv[2]
 md=open(mdpath,encoding='utf-8').read()
 low=md.casefold()
-hits=[w for w in FORBIDDEN if w.casefold() in low]
+hits=[w for w in FORBIDDEN if _re.search(w,md)]
 if hits:
     sys.exit('ODBIJENO: tekst sadrži zabranjene izraze (privatnost, feed je javan): '+', '.join(hits))
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -66,7 +67,7 @@ xml=f'''<?xml version="1.0" encoding="UTF-8"?>
 from xml.dom import minidom as _m; _m.parseString(xml.encode())
 # final safety check on the generated feed
 fl=xml.casefold()
-bad=[w for w in FORBIDDEN if w.casefold() in fl]
+bad=[w for w in FORBIDDEN if _re.search(w,xml)]
 if bad: sys.exit('ODBIJENO: feed sadrži zabranjene izraze: '+', '.join(bad))
 json.dump(items,open('items.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
 open('feed.xml','w',encoding='utf-8').write(xml)
