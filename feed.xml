@@ -3,122 +3,100 @@
 <channel>
 <title>ETH/BTC izveštaj</title>
 <link>https://icemonk79.github.io/eth-rss/</link>
-<description>Jutarnji i večernji presek tržišta ETH i BTC</description>
+<description>Jutarnji presek tržišta ETH i BTC</description>
 <language>sr</language>
-<lastBuildDate>Fri, 20 Nov 2026 20:18:50 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 08:14:59 +0100</lastBuildDate>
 <item>
-<title>ETH/BTC večernji presek – petak, 20. 11. 2026.</title>
+<title>ETH/BTC jutarnji presek – subota, 21. 11. 2026.</title>
 <link>https://icemonk79.github.io/eth-rss/</link>
-<guid isPermaLink="false">eth-vece-2026-11-20-2018</guid>
-<pubDate>Fri, 20 Nov 2026 20:18:50 +0100</pubDate>
-<description><![CDATA[<p><b>🚨 PROBIJENA KLJUČNA PODRŠKA $1,700–$1,710 I $1,603:</b> ETH je danas pao za <b>~10%</b>, do <b>~$1,590</b>, najniže od leta. Dnevna sveća se zatvara u <b>01:00 CET</b>, a nivo <b>$1,700</b> je bio naša granica za smanjenje rizika.</p>
-<h2>📊 Tržište u 20:18 (CET)</h2>
+<guid isPermaLink="false">eth-jutro-2026-11-21-0814</guid>
+<pubDate>Sat, 21 Nov 2026 08:14:59 +0100</pubDate>
+<description><![CDATA[<h2>🌅 ETH/BTC jutarnji presek – subota, 21. 11. 2026.</h2>
+<p><b>⚠️ PROBIJENO: ETH je zatvorio dan ispod $1,700 (petak: $1,620).</b> Noćas je probio i <b>$1,568</b> i pao do <b>$1,543</b>, ali je godišnji minimum <b>$1,505–$1,512</b> izdržao. Sada je ETH vraćen na oko <b>$1,635</b>. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></p>
+<h2>📊 Tržište u 08:20 (CET)</h2>
 <ul>
-<li><b>ETH: $1,596</b>, <b>−8.5% od jutarnjeg izveštaja</b> (08:12, $1,745) i <b>−10.0% za 24h</b> (CoinGecko). Samo za 4 sata pao je <b>7.4%</b>, sa $1,735 na $1,607. Od početka novembra je oko <b>−23%</b>, a od početka godine <b>−41%</b>. <a href="https://www.tokenpost.com/news/investing/62271">Više</a></li>
-<li><b>BTC: $58,079</b>, <b>−6.1% od jutra</b> ($61,870) i <b>−7.3% za 24h</b>. Pao je ispod <b>$59,000</b> prvi put od jula, na samo <b>~2%</b> od letnjeg dna od <b>$57,700</b>. Ceo rast iz avgusta i septembra je izbrisan. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play">Više</a></li>
+<li><b>ETH: $1,635</b>, <b>−6.3% za 24h</b> (CoinGecko), u 24h rasponu <b>$1,543–$1,760</b>. U odnosu na sinoćnji nivo ($1,596) to je <b>+2.4%</b>, pa se vidi odbitak od dna. <a href="https://www.coingecko.com/en/coins/ethereum">Više</a></li>
+<li><b>BTC: $58,268</b>, <b>−5.8% za 24h</b>, a noćni minimum je bio <b>$55,298</b>. Prvi put za dve godine pao je ispod $57,000, i <b>−28% je u ovom kvartalu</b>. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
 </ul>
-<h2>🎯 Ključni nivoi za ETH (ažurirani)</h2>
+<h2>📅 Poslednjih dana</h2>
+<p>Dnevna zatvaranja (00:00 UTC, CoinGecko):</p>
+<p>| Dan | ETH | % | BTC | % |</p>
+<p>|---|---|---|---|---|</p>
+<p>| Pet 13. | $1,932 | | $68,314 | |</p>
+<p>| Sub 14. | $1,768 | −8.5% | $64,120 | −6.1% |</p>
+<p>| Ned 15. | $1,835 | +3.8% | $65,305 | +1.8% |</p>
+<p>| Pon 16. | $1,819 | −0.9% | $64,841 | −0.7% |</p>
+<p>| Uto 17. | $1,823 | +0.2% | $64,889 | +0.1% |</p>
+<p>| Sre 18. | $1,775 | −2.6% | $62,997 | −2.9% |</p>
+<p>| Čet 19. | $1,756 | −1.1% | $61,921 | −1.7% |</p>
+<p>| Pet 20. | $1,620 | −7.7% | $58,818 | −5.0% |</p>
+<p>| Sad (08:20) | $1,635 | +0.9% | $58,268 | −0.9% |</p>
 <ul>
-<li><b>Podrška:</b> prvo <b>$1,568</b>, dugoročna linija trenda. Ispod nje je <b>$1,505–$1,512</b>, godišnje dno od <b>$1,506.50</b> (6. jun). Ako i to padne, analitičari pominju još niže zone. Ceo pojas <b>$1,500–$1,800</b> je mesto gde su počela poslednja dva velika odbijanja. <a href="https://crypto.news/ethereum-price-outlook-november-etf-outflows/">Više</a></li>
-<li><b>Otpor:</b> probijeni nivoi sad su otpor. Prvo <b>$1,603</b>, pa <b>$1,700–$1,710</b>, zatim <b>$1,750</b> i <b>$1,815</b>. Dnevni RSI je <b>~23</b>, što znači jaku preprodatost, pa je moguć odbitak. To ipak ne znači da je dno potvrđeno. <a href="https://www.tokenpost.com/news/investing/62251">Više</a></li>
-</ul>
-<h2>🧭 Šta pokreće cenu</h2>
-<ul>
-<li><b>Krah AI akcija:</b> Anthropic je pao <b>14%</b>, ispod IPO cene od $83. Čip ETF SOXX pao je <b>8%</b>, a Nasdaq <b>3.8%</b>. Zlato je takođe palo <b>2%</b>, ka <b>$3,500</b>. Investitori beže u keš. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play">Više</a></li>
-<li><b>Likvidacije (CoinGlass):</b> za 24h je likvidirano <b>$1.53B</b>, od toga <b>~$1.38B</b> long pozicija. Na BTC otpada <b>~$543M</b>. Samo u jednom satu je obrisano <b>$220M+</b> BTC longova. <a href="https://news.bitcoin.com/market-updates/bitcoin-price-crashes-below-59k-crypto-liquidations-top-1-5b/">Više</a></li>
-<li><b>ETF odlivi (Farside/SoSoValue):</b> ETH ETF-ovi su imali <b>−$131.2M</b> 19. nov, što je četvrti dan zaredom i <b>−$208.5M</b> za četiri dana. Novembar je na oko <b>−$973M</b>. BTC ETF-ovi su imali <b>−$582M</b> (IBIT −$541M). <a href="https://www.tokenpost.com/news/investing/62251">Više</a></li>
-<li><b>Makro:</b> 10-godišnji prinos je pao oko <b>10 bp</b>, na <b>~4.95%</b>, a dolar (DXY) je skliznuo na <b>~103.75</b>. To je bekstvo u sigurne obveznice, ali bez koristi za kripto. Waller je ove nedelje rekao da bi u decembru možda trebalo podići kamatu za <b>pola poena</b>. FOMC zaseda <b>8–9. dec</b>. <a href="https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html">Više</a></li>
-<li><b>On-chain i ETH vesti:</b> Santiment je zabeležio povlačenje <b>4,186 stETH</b>, najveći dnevni odliv od maja. Programeri pominju <b>januar 2027.</b> kao najraniji termin za Glamsterdam. To je kratkoročno slab katalizator. <a href="https://crypto.news/ethereum-price-outlook-november-etf-outflows/">Više</a></li>
-</ul>
-<h2>🔀 Scenariji (1–3 dana)</h2>
-<ul>
-<li><b>🟢 Bikovski (odbitak):</b> preprodatost (RSI ~23) i ispiranje longova daju gorivo za odbitak. Ako ETH vrati <b>$1,603</b>, a zatim dnevno zatvori iznad <b>$1,700</b>, pad bi delovao kao lažni proboj. Okidač: smirivanje Nasdaqa i manji ETF odlivi. <a href="https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-falters-as-returning-retail-demand-fails-to-offset-etf-outflows-202611201342">Više</a></li>
-<li><b>🔴 Medveđi:</b> dnevno zatvaranje ispod <b>$1,568</b> otvara test godišnjeg dna <b>$1,505–$1,512</b>. Okidač: BTC ispod <b>$57,700</b>, što bi bilo novo dno bear marketa, i novi talas prodaje tech akcija. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play">Više</a></li>
-<li><b>📅 Sledećih dana:</b> vikend je tanak, pa su moguće oštre sveće u oba smera. U ponedeljak stižu ETF tokovi za petak. U <b>sredu, 25. nov,</b> izlazi PCE inflacija, a u četvrtak su američke berze zatvorene (Dan zahvalnosti). <a href="https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html">Više</a></li>
-<li><b>🔭 Sutra (sub):</b> nema većih makro podataka. Ključno je kako se zatvori dnevna sveća u 01:00 CET, ispod ili iznad $1,700, i da li BTC drži $57,700.</li>
-</ul>
-<p>_Ovo nije finansijski savet._</p>]]></description>
-<content:encoded><![CDATA[<p><b>🚨 PROBIJENA KLJUČNA PODRŠKA $1,700–$1,710 I $1,603:</b> ETH je danas pao za <b>~10%</b>, do <b>~$1,590</b>, najniže od leta. Dnevna sveća se zatvara u <b>01:00 CET</b>, a nivo <b>$1,700</b> je bio naša granica za smanjenje rizika.</p>
-<h2>📊 Tržište u 20:18 (CET)</h2>
-<ul>
-<li><b>ETH: $1,596</b>, <b>−8.5% od jutarnjeg izveštaja</b> (08:12, $1,745) i <b>−10.0% za 24h</b> (CoinGecko). Samo za 4 sata pao je <b>7.4%</b>, sa $1,735 na $1,607. Od početka novembra je oko <b>−23%</b>, a od početka godine <b>−41%</b>. <a href="https://www.tokenpost.com/news/investing/62271">Više</a></li>
-<li><b>BTC: $58,079</b>, <b>−6.1% od jutra</b> ($61,870) i <b>−7.3% za 24h</b>. Pao je ispod <b>$59,000</b> prvi put od jula, na samo <b>~2%</b> od letnjeg dna od <b>$57,700</b>. Ceo rast iz avgusta i septembra je izbrisan. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play">Više</a></li>
-</ul>
-<h2>🎯 Ključni nivoi za ETH (ažurirani)</h2>
-<ul>
-<li><b>Podrška:</b> prvo <b>$1,568</b>, dugoročna linija trenda. Ispod nje je <b>$1,505–$1,512</b>, godišnje dno od <b>$1,506.50</b> (6. jun). Ako i to padne, analitičari pominju još niže zone. Ceo pojas <b>$1,500–$1,800</b> je mesto gde su počela poslednja dva velika odbijanja. <a href="https://crypto.news/ethereum-price-outlook-november-etf-outflows/">Više</a></li>
-<li><b>Otpor:</b> probijeni nivoi sad su otpor. Prvo <b>$1,603</b>, pa <b>$1,700–$1,710</b>, zatim <b>$1,750</b> i <b>$1,815</b>. Dnevni RSI je <b>~23</b>, što znači jaku preprodatost, pa je moguć odbitak. To ipak ne znači da je dno potvrđeno. <a href="https://www.tokenpost.com/news/investing/62251">Više</a></li>
-</ul>
-<h2>🧭 Šta pokreće cenu</h2>
-<ul>
-<li><b>Krah AI akcija:</b> Anthropic je pao <b>14%</b>, ispod IPO cene od $83. Čip ETF SOXX pao je <b>8%</b>, a Nasdaq <b>3.8%</b>. Zlato je takođe palo <b>2%</b>, ka <b>$3,500</b>. Investitori beže u keš. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play">Više</a></li>
-<li><b>Likvidacije (CoinGlass):</b> za 24h je likvidirano <b>$1.53B</b>, od toga <b>~$1.38B</b> long pozicija. Na BTC otpada <b>~$543M</b>. Samo u jednom satu je obrisano <b>$220M+</b> BTC longova. <a href="https://news.bitcoin.com/market-updates/bitcoin-price-crashes-below-59k-crypto-liquidations-top-1-5b/">Više</a></li>
-<li><b>ETF odlivi (Farside/SoSoValue):</b> ETH ETF-ovi su imali <b>−$131.2M</b> 19. nov, što je četvrti dan zaredom i <b>−$208.5M</b> za četiri dana. Novembar je na oko <b>−$973M</b>. BTC ETF-ovi su imali <b>−$582M</b> (IBIT −$541M). <a href="https://www.tokenpost.com/news/investing/62251">Više</a></li>
-<li><b>Makro:</b> 10-godišnji prinos je pao oko <b>10 bp</b>, na <b>~4.95%</b>, a dolar (DXY) je skliznuo na <b>~103.75</b>. To je bekstvo u sigurne obveznice, ali bez koristi za kripto. Waller je ove nedelje rekao da bi u decembru možda trebalo podići kamatu za <b>pola poena</b>. FOMC zaseda <b>8–9. dec</b>. <a href="https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html">Više</a></li>
-<li><b>On-chain i ETH vesti:</b> Santiment je zabeležio povlačenje <b>4,186 stETH</b>, najveći dnevni odliv od maja. Programeri pominju <b>januar 2027.</b> kao najraniji termin za Glamsterdam. To je kratkoročno slab katalizator. <a href="https://crypto.news/ethereum-price-outlook-november-etf-outflows/">Više</a></li>
-</ul>
-<h2>🔀 Scenariji (1–3 dana)</h2>
-<ul>
-<li><b>🟢 Bikovski (odbitak):</b> preprodatost (RSI ~23) i ispiranje longova daju gorivo za odbitak. Ako ETH vrati <b>$1,603</b>, a zatim dnevno zatvori iznad <b>$1,700</b>, pad bi delovao kao lažni proboj. Okidač: smirivanje Nasdaqa i manji ETF odlivi. <a href="https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-falters-as-returning-retail-demand-fails-to-offset-etf-outflows-202611201342">Više</a></li>
-<li><b>🔴 Medveđi:</b> dnevno zatvaranje ispod <b>$1,568</b> otvara test godišnjeg dna <b>$1,505–$1,512</b>. Okidač: BTC ispod <b>$57,700</b>, što bi bilo novo dno bear marketa, i novi talas prodaje tech akcija. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play">Više</a></li>
-<li><b>📅 Sledećih dana:</b> vikend je tanak, pa su moguće oštre sveće u oba smera. U ponedeljak stižu ETF tokovi za petak. U <b>sredu, 25. nov,</b> izlazi PCE inflacija, a u četvrtak su američke berze zatvorene (Dan zahvalnosti). <a href="https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html">Više</a></li>
-<li><b>🔭 Sutra (sub):</b> nema većih makro podataka. Ključno je kako se zatvori dnevna sveća u 01:00 CET, ispod ili iznad $1,700, i da li BTC drži $57,700.</li>
-</ul>
-<p>_Ovo nije finansijski savet._</p>]]></content:encoded>
-</item>
-<item>
-<title>ETH/BTC jutarnji presek – petak, 20. 11. 2026.</title>
-<link>https://icemonk79.github.io/eth-rss/</link>
-<guid isPermaLink="false">eth-jutro-2026-11-20-0813</guid>
-<pubDate>Fri, 20 Nov 2026 08:13:42 +0100</pubDate>
-<description><![CDATA[<p><b>⚠️ ETH JE NOĆAS KRATKO PROBIO PODRŠKU $1,737–$1,750:</b> pao je do <b>$1,722</b>, ali se vratio na oko <b>$1,745</b>. Dnevnog zatvaranja ispod nje nije bilo, a glavna podrška <b>$1,700–$1,710</b> drži.</p>
-<h2>📊 Tržište u 08:12 (CET)</h2>
-<ul>
-<li><b>ETH: $1,745</b>, <b>−1.7% od večernjeg izveštaja</b> (20:19, $1,775) i <b>−3.3% za 24h</b> (CoinGecko). Četvrtak je zatvorio na <b>$1,755</b> u rasponu <b>$1,734–$1,816</b>. Odbitci se završavaju sve niže. <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
-<li><b>BTC: $61,870</b>, <b>−1.2% od sinoć</b> ($62,652) i <b>−2.9% za 24h</b>. Noćas je pao do skoro <b>$61,300</b>, najniže od početka jula, posle Anthropic IPO-a i pada tech akcija. U ovom kvartalu je <b>−28%</b>. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt">Više</a></li>
+<li><b>Trend:</b> ETH je pao <b>tri dana zaredom</b>, uz sve niže minimume. Za 7 dana je <b>−7.5%</b>, a za 30 dana <b>−31.5%</b> (sa ~$2,386). Cena je pri samom dnu 30-dnevnog raspona, a BTC za 7 dana <b>−9.1%</b>. <a href="https://www.coingecko.com/en/coins/ethereum">Više</a></li>
 </ul>
 <h2>🎯 Ključni nivoi za ETH</h2>
 <ul>
-<li><b>Podrška:</b> prvo <b>$1,722–$1,731</b> (noćni minimum i minimum od srede), pa ključna <b>$1,700–$1,710</b> (dno od vikenda). Ispod toga slede <b>$1,603</b> i <b>$1,505–$1,512</b>. Nivo $1,737–$1,750 sad je slab. <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
-<li><b>Otpor:</b> prvo <b>~$1,792</b> (4h EMA20), pa <b>$1,815.5</b>. Dnevno zatvaranje iznad tog nivoa ruši niz nižih vrhova. Zatim dolaze <b>$1,864</b> i <b>$1,918–$1,971</b>, pa <b>$2,000</b> (dnevna EMA20 je na <b>~$2,014</b>, a EMA50 na <b>~$2,205</b>). <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
+<li><b>Podrška:</b> prvo <b>$1,603</b>, pa <b>$1,568</b> i noćni minimum <b>$1,543</b>. Ispod toga je ključna zona <b>$1,505–$1,512</b> (godišnji minimum $1,506.50). <a href="https://www.coingecko.com/en/coins/ethereum">Više</a></li>
+<li><b>Otpor:</b> bivša podrška <b>$1,700–$1,710</b> je sada prvi otpor, pa slede <b>$1,750</b> i <b>$1,815</b>. Tek dnevno zatvaranje iznad $1,710 bi poništilo jučerašnji proboj. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
 </ul>
 <h2>🧭 Šta pokreće cenu</h2>
 <ul>
-<li><b>ETF odlivi se ubrzavaju (Farside, 19. nov):</b> ETH ETF-ovi <b>−$131.2M</b> (ETHA −$124.2M), četvrti dan zaredom. BTC ETF-ovi <b>−$582M</b>, što je treći dan zaredom i oko <b>−$1.13B</b> za tri dana. <a href="https://en.bloomingbit.io/feed/news/124853">Više</a></li>
-<li><b>Likvidacije:</b> za 24h <b>preko $600M</b>, a skoro polovina se desila u poslednjih 12h. Ispiranje leverage-a usledilo je posle Anthropic IPO-a. Nasdaq fjučersi su ispod proseka od 200 dana posle pada indeksa od <b>2.4%</b> u četvrtak. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt">Više</a></li>
-<li><b>Realne kamate rastu:</b> 2-godišnje realne stope su iznad <b>2.4%</b>, a duže su na maksimumu od preko 20 godina. Zlato je palo <b>~3%</b> na <b>$3,514</b>. To pritiska imovinu bez prinosa, kao što su BTC i ETH. <a href="https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too">Više</a></li>
-<li><b>Jak dolar, jastrebski Fed:</b> DXY je blizu <b>103.9</b>, najjače od aprila 2025, i ide ka četvrtoj nedelji rasta. Tržište računa na <b>+25 bp</b> u decembru, uz malu šansu za veći korak. <a href="https://www.cnbc.com/2026/11/20/dollar-price-currency-euro-yen.html">Više</a></li>
+<li><b>ETF odlivi (Farside):</b> ETH ETF-ovi su imali <b>−$131.2M</b> 19. nov. Za 20. nov je zasad <b>−$13.2M</b>, ali ETHA i FETH još nisu prijavili, pa je to <b>peti dan odliva zaredom</b>. <a href="https://farside.co.uk/eth/">Više</a></li>
+<li><b>BTC ETF-ovi:</b> 19. nov <b>−$582M</b>, a u novembru su imali samo dva dana priliva. Ukupni odliv se bliži <b>−$3.5B</b> za mesec. <a href="https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217">Više</a></li>
+<li><b>Likvidacije (CoinGlass):</b> za 24h je likvidirano <b>$2.40B</b>. BTC nosi <b>preko $1B</b>, a ETH <b>$545M</b>. Najveća pojedinačna je <b>long od $51.7M</b> na BTC, pa je ovo bilo klasično ispiranje bikovskog leverage-a. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+<li><b>Makro:</b> Nasdaq je u petak pao <b>preko 4%</b>, a pritisak dolazi od rasta realnih prinosa i jastrebskog Feda. Fjučersi potpuno uračunavaju <b>povećanje kamate od 25 bp</b> na sastanku 8–9. decembra. <a href="https://www.fxstreet.com/analysis/week-ahead-flash-pmis-and-pce-inflation-in-focus-ahead-of-thanksgiving-202611201011">Više</a></li>
+<li><b>Obveznice i dolar:</b> u petak je bilo bekstvo u sigurnost, pa je 10-godišnji prinos pao na <b>4.932%</b>. Dolar (DXY) je blago oslabio, na <b>103.80</b>. To je mali predah, ali još ne i preokret. <a href="https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html">Više</a></li>
+<li><b>Ethereum:</b> nadogradnja <b>Glamsterdam</b> pomera se najranije na sredinu, a realno na kraj januara ili početak februara. Programeri daju vreme aplikacijama koje bi nova pravila o gasu pokvarila. <a href="https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break">Više</a></li>
 </ul>
 <h2>🔀 Scenariji (1–3 dana)</h2>
 <ul>
-<li><b>🟢 Bikovski:</b> ETH dnevno zatvori iznad <b>$1,815.5</b>, pa probije <b>$1,864</b>, što otvara <b>$1,918–$1,971</b>. Okidač: smirivanje tech akcija, rotacija kapitala u kripto posle IPO-a i manji ETF odlivi. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt">Više</a></li>
-<li><b>🔴 Medveđi:</b> dnevno zatvaranje ispod <b>$1,731</b>, pa gubitak <b>$1,700–$1,710</b>, otvara <b>$1,603</b>. Okidač: BTC ispod $61,300, novi pad Nasdaqa i dalji rast realnih prinosa. <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
-<li><b>📅 Danas (pet, 20. nov):</b> u <b>14:25</b> govori Waller (Fed), u <b>16:00</b> izlazi konačni Michigan indeks poverenja (prognoza <b>51.0</b>), a u <b>18:15</b> govori Cook (sva vremena CET). Vikend je obično tanak, pa su mogući oštri potezi. U sredu (25. nov) izlazi PCE. <a href="https://www.investing.com/news/stock-market-news/michigan-consumer-sentiment-and-baker-hughes-rig-count-due-friday-93CH-5039764">Više</a></li>
+<li><b>🟢 Bikovski:</b> ETH se drži iznad <b>$1,603</b> i vrati dnevno zatvaranje iznad <b>$1,700–$1,710</b>, što otvara <b>$1,750</b>, pa <b>$1,815</b>. Okidač: smirivanje Nasdaqa i manji ETF odlivi. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+<li><b>🔴 Medveđi:</b> dnevno zatvaranje ispod <b>$1,568</b>, pa test <b>$1,505–$1,512</b>. Ako ni to ne izdrži, ETH je na novom godišnjem minimumu. Okidač: BTC ponovo ispod <b>$55,300</b> i nastavak ETF odliva. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+<li><b>📅 Narednih dana:</b> vikend je tanak, pa su mogući oštri potezi. U ponedeljak (23. nov) izlaze flash PMI za SAD i Evropu, a u sredu (25. nov) PCE inflacija i druga procena BDP-a SAD za Q3. U četvrtak je Dan zahvalnosti i berze u SAD su zatvorene. <a href="https://www.fxstreet.com/analysis/week-ahead-flash-pmis-and-pce-inflation-in-focus-ahead-of-thanksgiving-202611201011">Više</a></li>
 </ul>
 <p>_Ovo nije finansijski savet._</p>]]></description>
-<content:encoded><![CDATA[<p><b>⚠️ ETH JE NOĆAS KRATKO PROBIO PODRŠKU $1,737–$1,750:</b> pao je do <b>$1,722</b>, ali se vratio na oko <b>$1,745</b>. Dnevnog zatvaranja ispod nje nije bilo, a glavna podrška <b>$1,700–$1,710</b> drži.</p>
-<h2>📊 Tržište u 08:12 (CET)</h2>
+<content:encoded><![CDATA[<h2>🌅 ETH/BTC jutarnji presek – subota, 21. 11. 2026.</h2>
+<p><b>⚠️ PROBIJENO: ETH je zatvorio dan ispod $1,700 (petak: $1,620).</b> Noćas je probio i <b>$1,568</b> i pao do <b>$1,543</b>, ali je godišnji minimum <b>$1,505–$1,512</b> izdržao. Sada je ETH vraćen na oko <b>$1,635</b>. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></p>
+<h2>📊 Tržište u 08:20 (CET)</h2>
 <ul>
-<li><b>ETH: $1,745</b>, <b>−1.7% od večernjeg izveštaja</b> (20:19, $1,775) i <b>−3.3% za 24h</b> (CoinGecko). Četvrtak je zatvorio na <b>$1,755</b> u rasponu <b>$1,734–$1,816</b>. Odbitci se završavaju sve niže. <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
-<li><b>BTC: $61,870</b>, <b>−1.2% od sinoć</b> ($62,652) i <b>−2.9% za 24h</b>. Noćas je pao do skoro <b>$61,300</b>, najniže od početka jula, posle Anthropic IPO-a i pada tech akcija. U ovom kvartalu je <b>−28%</b>. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt">Više</a></li>
+<li><b>ETH: $1,635</b>, <b>−6.3% za 24h</b> (CoinGecko), u 24h rasponu <b>$1,543–$1,760</b>. U odnosu na sinoćnji nivo ($1,596) to je <b>+2.4%</b>, pa se vidi odbitak od dna. <a href="https://www.coingecko.com/en/coins/ethereum">Više</a></li>
+<li><b>BTC: $58,268</b>, <b>−5.8% za 24h</b>, a noćni minimum je bio <b>$55,298</b>. Prvi put za dve godine pao je ispod $57,000, i <b>−28% je u ovom kvartalu</b>. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+</ul>
+<h2>📅 Poslednjih dana</h2>
+<p>Dnevna zatvaranja (00:00 UTC, CoinGecko):</p>
+<p>| Dan | ETH | % | BTC | % |</p>
+<p>|---|---|---|---|---|</p>
+<p>| Pet 13. | $1,932 | | $68,314 | |</p>
+<p>| Sub 14. | $1,768 | −8.5% | $64,120 | −6.1% |</p>
+<p>| Ned 15. | $1,835 | +3.8% | $65,305 | +1.8% |</p>
+<p>| Pon 16. | $1,819 | −0.9% | $64,841 | −0.7% |</p>
+<p>| Uto 17. | $1,823 | +0.2% | $64,889 | +0.1% |</p>
+<p>| Sre 18. | $1,775 | −2.6% | $62,997 | −2.9% |</p>
+<p>| Čet 19. | $1,756 | −1.1% | $61,921 | −1.7% |</p>
+<p>| Pet 20. | $1,620 | −7.7% | $58,818 | −5.0% |</p>
+<p>| Sad (08:20) | $1,635 | +0.9% | $58,268 | −0.9% |</p>
+<ul>
+<li><b>Trend:</b> ETH je pao <b>tri dana zaredom</b>, uz sve niže minimume. Za 7 dana je <b>−7.5%</b>, a za 30 dana <b>−31.5%</b> (sa ~$2,386). Cena je pri samom dnu 30-dnevnog raspona, a BTC za 7 dana <b>−9.1%</b>. <a href="https://www.coingecko.com/en/coins/ethereum">Više</a></li>
 </ul>
 <h2>🎯 Ključni nivoi za ETH</h2>
 <ul>
-<li><b>Podrška:</b> prvo <b>$1,722–$1,731</b> (noćni minimum i minimum od srede), pa ključna <b>$1,700–$1,710</b> (dno od vikenda). Ispod toga slede <b>$1,603</b> i <b>$1,505–$1,512</b>. Nivo $1,737–$1,750 sad je slab. <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
-<li><b>Otpor:</b> prvo <b>~$1,792</b> (4h EMA20), pa <b>$1,815.5</b>. Dnevno zatvaranje iznad tog nivoa ruši niz nižih vrhova. Zatim dolaze <b>$1,864</b> i <b>$1,918–$1,971</b>, pa <b>$2,000</b> (dnevna EMA20 je na <b>~$2,014</b>, a EMA50 na <b>~$2,205</b>). <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
+<li><b>Podrška:</b> prvo <b>$1,603</b>, pa <b>$1,568</b> i noćni minimum <b>$1,543</b>. Ispod toga je ključna zona <b>$1,505–$1,512</b> (godišnji minimum $1,506.50). <a href="https://www.coingecko.com/en/coins/ethereum">Više</a></li>
+<li><b>Otpor:</b> bivša podrška <b>$1,700–$1,710</b> je sada prvi otpor, pa slede <b>$1,750</b> i <b>$1,815</b>. Tek dnevno zatvaranje iznad $1,710 bi poništilo jučerašnji proboj. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
 </ul>
 <h2>🧭 Šta pokreće cenu</h2>
 <ul>
-<li><b>ETF odlivi se ubrzavaju (Farside, 19. nov):</b> ETH ETF-ovi <b>−$131.2M</b> (ETHA −$124.2M), četvrti dan zaredom. BTC ETF-ovi <b>−$582M</b>, što je treći dan zaredom i oko <b>−$1.13B</b> za tri dana. <a href="https://en.bloomingbit.io/feed/news/124853">Više</a></li>
-<li><b>Likvidacije:</b> za 24h <b>preko $600M</b>, a skoro polovina se desila u poslednjih 12h. Ispiranje leverage-a usledilo je posle Anthropic IPO-a. Nasdaq fjučersi su ispod proseka od 200 dana posle pada indeksa od <b>2.4%</b> u četvrtak. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt">Više</a></li>
-<li><b>Realne kamate rastu:</b> 2-godišnje realne stope su iznad <b>2.4%</b>, a duže su na maksimumu od preko 20 godina. Zlato je palo <b>~3%</b> na <b>$3,514</b>. To pritiska imovinu bez prinosa, kao što su BTC i ETH. <a href="https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too">Više</a></li>
-<li><b>Jak dolar, jastrebski Fed:</b> DXY je blizu <b>103.9</b>, najjače od aprila 2025, i ide ka četvrtoj nedelji rasta. Tržište računa na <b>+25 bp</b> u decembru, uz malu šansu za veći korak. <a href="https://www.cnbc.com/2026/11/20/dollar-price-currency-euro-yen.html">Više</a></li>
+<li><b>ETF odlivi (Farside):</b> ETH ETF-ovi su imali <b>−$131.2M</b> 19. nov. Za 20. nov je zasad <b>−$13.2M</b>, ali ETHA i FETH još nisu prijavili, pa je to <b>peti dan odliva zaredom</b>. <a href="https://farside.co.uk/eth/">Više</a></li>
+<li><b>BTC ETF-ovi:</b> 19. nov <b>−$582M</b>, a u novembru su imali samo dva dana priliva. Ukupni odliv se bliži <b>−$3.5B</b> za mesec. <a href="https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217">Više</a></li>
+<li><b>Likvidacije (CoinGlass):</b> za 24h je likvidirano <b>$2.40B</b>. BTC nosi <b>preko $1B</b>, a ETH <b>$545M</b>. Najveća pojedinačna je <b>long od $51.7M</b> na BTC, pa je ovo bilo klasično ispiranje bikovskog leverage-a. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+<li><b>Makro:</b> Nasdaq je u petak pao <b>preko 4%</b>, a pritisak dolazi od rasta realnih prinosa i jastrebskog Feda. Fjučersi potpuno uračunavaju <b>povećanje kamate od 25 bp</b> na sastanku 8–9. decembra. <a href="https://www.fxstreet.com/analysis/week-ahead-flash-pmis-and-pce-inflation-in-focus-ahead-of-thanksgiving-202611201011">Više</a></li>
+<li><b>Obveznice i dolar:</b> u petak je bilo bekstvo u sigurnost, pa je 10-godišnji prinos pao na <b>4.932%</b>. Dolar (DXY) je blago oslabio, na <b>103.80</b>. To je mali predah, ali još ne i preokret. <a href="https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html">Više</a></li>
+<li><b>Ethereum:</b> nadogradnja <b>Glamsterdam</b> pomera se najranije na sredinu, a realno na kraj januara ili početak februara. Programeri daju vreme aplikacijama koje bi nova pravila o gasu pokvarila. <a href="https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break">Više</a></li>
 </ul>
 <h2>🔀 Scenariji (1–3 dana)</h2>
 <ul>
-<li><b>🟢 Bikovski:</b> ETH dnevno zatvori iznad <b>$1,815.5</b>, pa probije <b>$1,864</b>, što otvara <b>$1,918–$1,971</b>. Okidač: smirivanje tech akcija, rotacija kapitala u kripto posle IPO-a i manji ETF odlivi. <a href="https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt">Više</a></li>
-<li><b>🔴 Medveđi:</b> dnevno zatvaranje ispod <b>$1,731</b>, pa gubitak <b>$1,700–$1,710</b>, otvara <b>$1,603</b>. Okidač: BTC ispod $61,300, novi pad Nasdaqa i dalji rast realnih prinosa. <a href="https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/">Više</a></li>
-<li><b>📅 Danas (pet, 20. nov):</b> u <b>14:25</b> govori Waller (Fed), u <b>16:00</b> izlazi konačni Michigan indeks poverenja (prognoza <b>51.0</b>), a u <b>18:15</b> govori Cook (sva vremena CET). Vikend je obično tanak, pa su mogući oštri potezi. U sredu (25. nov) izlazi PCE. <a href="https://www.investing.com/news/stock-market-news/michigan-consumer-sentiment-and-baker-hughes-rig-count-due-friday-93CH-5039764">Više</a></li>
+<li><b>🟢 Bikovski:</b> ETH se drži iznad <b>$1,603</b> i vrati dnevno zatvaranje iznad <b>$1,700–$1,710</b>, što otvara <b>$1,750</b>, pa <b>$1,815</b>. Okidač: smirivanje Nasdaqa i manji ETF odlivi. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+<li><b>🔴 Medveđi:</b> dnevno zatvaranje ispod <b>$1,568</b>, pa test <b>$1,505–$1,512</b>. Ako ni to ne izdrži, ETH je na novom godišnjem minimumu. Okidač: BTC ponovo ispod <b>$55,300</b> i nastavak ETF odliva. <a href="https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone">Više</a></li>
+<li><b>📅 Narednih dana:</b> vikend je tanak, pa su mogući oštri potezi. U ponedeljak (23. nov) izlaze flash PMI za SAD i Evropu, a u sredu (25. nov) PCE inflacija i druga procena BDP-a SAD za Q3. U četvrtak je Dan zahvalnosti i berze u SAD su zatvorene. <a href="https://www.fxstreet.com/analysis/week-ahead-flash-pmis-and-pce-inflation-in-focus-ahead-of-thanksgiving-202611201011">Više</a></li>
 </ul>
 <p>_Ovo nije finansijski savet._</p>]]></content:encoded>
 </item>
