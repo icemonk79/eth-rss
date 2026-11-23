@@ -4,8 +4,9 @@ Replaces the entry for the slot in items.json, rebuilds feed.xml (only the lates
 commits and pushes. Refuses to publish if the text contains personal-position wording (feed is PUBLIC).
 
 At publish time, emoji and other pictographic symbols are replaced with small
-hosted <img> tags (Twemoji PNGs under icons/) so e-readers such as PocketBook
-do not show empty squares. Chat/message copies are not modified by this script.
+embedded <img> tags (Twemoji PNGs as data:image URIs) so e-readers such as
+PocketBook that cannot fetch remote images may still show the icons.
+Chat/message copies are not modified by this script.
 """
 import sys,re,html,email.utils,datetime,subprocess,zoneinfo,os,json
 import re as _re
